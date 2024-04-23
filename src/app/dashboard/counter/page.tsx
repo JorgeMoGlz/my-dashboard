@@ -12,10 +12,7 @@ export default function CounterPage() {
             <span>
                 Productos en el carrito de compras
             </span>
-            <CartCounter value={12} />
-            
-            
-            
+            <CartCounter value={ 13 } />
         </div>
     );
 }
